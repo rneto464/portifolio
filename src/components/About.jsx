@@ -16,9 +16,13 @@ export const About = () => {
                     transition={{ duration: 0.8 }}
                     className="relative"
                 >
-                    <div className="w-full aspect-square rounded-2xl bg-gradient-to-tr from-space-800 to-space-900 border border-space-accent/20 flex items-center justify-center p-8 relative overflow-hidden group">
-                        <div className="absolute inset-0 bg-space-accent/5 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
-                        <User className="w-32 h-32 text-space-accent/50" />
+                    <div className="w-full aspect-square rounded-2xl bg-gradient-to-tr from-space-800 to-space-900 border border-space-accent/20 flex items-center justify-center relative overflow-hidden group">
+                        <img
+                            src="/my-photo.jpg"
+                            alt="Profile"
+                            className="absolute inset-0 w-full h-full object-cover opacity-90 group-hover:opacity-100 transition-opacity duration-500"
+                        />
+                        <div className="absolute inset-0 bg-space-accent/10 opacity-0 group-hover:opacity-100 transition-opacity duration-500 mix-blend-overlay"></div>
 
                         <div className="absolute bottom-8 left-8 bg-black/40 backdrop-blur-md p-4 rounded-lg border border-white/10">
                             <div className="flex items-center gap-2 text-space-accent mb-1">

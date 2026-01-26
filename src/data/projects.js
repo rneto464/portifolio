@@ -10,7 +10,7 @@ export const projects = [
         color: 'from-purple-500 to-pink-500',
         tech: ['Python', 'Flask', 'Google Vision API', 'Gemini API', 'Spotify API'],
         liveLink: '#',
-        sourceLink: '#',
+        sourceLink: 'https://github.com/rneto464/PlayerV2-',
         features: [
             'Recomendação Inteligente via Gemini',
             'Análise de atmosfera de imagens',
@@ -42,7 +42,7 @@ export const projects = [
         color: 'from-green-500 to-emerald-500',
         tech: ['Python', 'Multi-tenant', 'Mobile Integration'],
         liveLink: '#',
-        sourceLink: '#',
+        sourceLink: 'https://github.com/rneto464/password-calling-friend',
         features: [
             'Personalização White-label',
             'Fluxos distintos (Quiosque/Mobile)',
@@ -58,7 +58,7 @@ export const projects = [
         color: 'from-red-500 to-orange-500',
         tech: ['Next.js', 'Supabase', 'Gamification'],
         liveLink: '#',
-        sourceLink: '#',
+        sourceLink: 'https://github.com/rneto464/intellect-prestige',
         features: [
             'Identificação de falácias',
             'Gamificação',

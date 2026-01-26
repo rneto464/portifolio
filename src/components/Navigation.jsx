@@ -19,7 +19,6 @@ export const Navigation = () => {
     }, []);
 
     const navLinks = [
-        { name: t.nav.mission, href: '#' },
         { name: t.nav.planets, href: '#projects' },
         { name: t.nav.skills, href: '#skills' },
         { name: t.nav.about, href: '#about' },
