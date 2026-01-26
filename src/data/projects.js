@@ -9,7 +9,7 @@ export const projects = [
         icon: Music,
         color: 'from-purple-500 to-pink-500',
         tech: ['Python', 'Flask', 'Google Vision API', 'Gemini API', 'Spotify API'],
-        liveLink: '#',
+        liveLink: 'https://www.linkedin.com/feed/update/urn:li:activity:7343314131363475458/',
         sourceLink: 'https://github.com/rneto464/PlayerV2-',
         features: [
             'Recomendação Inteligente via Gemini',
@@ -25,7 +25,7 @@ export const projects = [
         icon: ShoppingBag,
         color: 'from-blue-500 to-cyan-500',
         tech: ['Python', 'FastAPI', 'Supabase', 'Tailwind CSS'],
-        liveLink: '#',
+        liveLink: 'https://www.linkedin.com/feed/update/urn:li:activity:7403806163609444352/',
         sourceLink: 'https://github.com/rneto464/Lojav7',
         features: [
             'Cálculo de margens de lucro',
@@ -41,7 +41,7 @@ export const projects = [
         icon: Users,
         color: 'from-green-500 to-emerald-500',
         tech: ['Python', 'Multi-tenant', 'Mobile Integration'],
-        liveLink: '#',
+        liveLink: 'https://www.linkedin.com/feed/update/urn:li:activity:7414286326071541760/',
         sourceLink: 'https://github.com/rneto464/password-calling-friend',
         features: [
             'Personalização White-label',
@@ -57,7 +57,7 @@ export const projects = [
         icon: ShieldAlert,
         color: 'from-red-500 to-orange-500',
         tech: ['Next.js', 'Supabase', 'Gamification'],
-        liveLink: '#',
+        liveLink: 'https://linkedin.com/in/rnetodev-362956238',
         sourceLink: 'https://github.com/rneto464/intellect-prestige',
         features: [
             'Identificação de falácias',
