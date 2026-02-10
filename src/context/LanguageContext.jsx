@@ -20,8 +20,8 @@ export const translations = {
         about: {
             title: "O Explorador",
             missionLog: "Sobre Mim",
-            p1: "Estudante do 9º período de Engenharia de Software, combino a fundamentação acadêmica com uma forte experiência prática. Minha paixão é construir sistemas que resolvem dores reais — seja otimizando a gestão de uma assistência técnica ou criando novas formas de descobrir música através de IA.",
-            p2: "Tenho proficiência em Python (FastAPI/Flask) e ecossistemas modernos de JavaScript (React Native/Next.js), sempre buscando a melhor ferramenta para o desafio, desde a arquitetura de banco de dados até a experiência final do usuário.",
+            p1: "Estudante do 9º período de Engenharia de Software, combino a fundamentação acadêmica com uma forte experiência prática. Minha paixão é construir sistemas que resolvem dores reais, seja otimizando a gestão de uma assistência técnica ou criando novas formas de descobrir música através de IA.",
+            p2: "Tenho proficiência e experiência com Python (FastAPI e Flask) e o ecossistema moderno de JavaScript, incluindo React Native e Next.js. Busco sempre a melhor ferramenta para cada desafio, desde a arquitetura de banco de dados até a experiência final do usuário.",
             educationTitle: "Formação",
             education_degree: "Bacharelado em Engenharia de Software",
             university: "UNDB - Unidade de Ensino Superior Dom Bosco | Previsão: 2026",
